@@ -1,8 +1,26 @@
-# React + Vite
+# React Crypto App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Приложение для отслеживания ваших дохов/потерь от вложений в криптовалюту.
 
-Currently, two official plugins are available:
+## Функционал
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+В приложении реализована возможность добавлять купленную криптовалюту в ваше портфолио и наблюдать как растет ваш баланс. Благодаря использованию сторонних библиотек, данные можно рассматривать в виде графиков и таблиц с возможностью сортировки.
+
+## Стек
+
+- JS
+- React
+- Vite
+- Node.js
+- Express
+- Библиотеки: Ant Design, react-chartjs-2
+
+## Запуск
+
+1. Скопировать репозиторий с Git
+2. Установить зависимости
+3. Перейти в папку проекта и запустить с помощью команды `node server.js`
+
+## Ссылки
+
+[Репозиторий](https://github.com/ibragim-ast/react-crypto-app)
